@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.secondstep{
+    border: 1px solid black;
+    height: 600px;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.secondstep > div:nth-child(1) img{
+    background-color: white;
+    height:50px;
+    margin-left: 200px;
+    margin-top: 20px;
+    display: block;
+    /* margin: 10px 10px; */
+    margin-bottom: 70px;
+}
+
+.secondstep > div:nth-child(2){
+    margin-bottom: 30px;
+}
+
+.secondstep > div:nth-child(2) h2{
+    margin: 10px 10px;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.secondstep > div:nth-child(2) p{
+    margin: 10px 10px;
+    margin-left: 130px;
+
+
+}
+
+.secondstep > div:nth-child(3){
+    margin: 10px 10px;
+    margin-left: 130px;
+    margin-right: 180px;
+}
+
+.secondstep > div:nth-child(3) legend{
+    margin-left: 10px;
+}
+.secondstep > div:nth-child(3) >fieldset input{
+  height: 20px;
+  border: none;
+  outline: none;
+  padding-left: 15px;
+  font-size: larger;
+  color: black;
+}
+
+.secondstep > div:nth-child(3) >fieldset{
+    border-color: blueviolet;
+    
+}
+
+.secondstep > div:nth-child(4){
+    margin: 10px 10px;
+    margin: 10px 10px;
+    margin-left: 100px;
+    margin-right: 160px;
+}
+
+.fourth{
+    display: flex;
+    height: 44px;
+    margin-left: 30px
+}
+
+
+.firstitem{
+    border-color: blueviolet;
+    height: 50x;
+}
+
+.firstitem > legend{
+    font-size: 13px;
+}
+
+.firstitem > input{
+    height: 13px;
+    padding-left: 5px;
+    width: 72px;
+    border: none;
+    outline: none;
+    font-size: 15px
+}
+
+.seconditem{
+    border-color: blueviolet;
+}
+
+.seconditem > legend{
+ font-size: 13px;
+}
+
+.seconditem > input{
+    height: 13px;
+    padding-left: 10px;
+    width: 190px;
+    border: none;
+    outline: none;
+    font-size: 15px
+}
+
+
+/* .secondstep > div:nth-child(4) > div fieldset{
+    border-color: blueviolet;
+}
+
+.secondstep > div:nth-child(4) >fieldset input{
+    height: 20px;
+    border: none;
+    outline: none;
+    padding-left: 15px;
+    font-size: larger;
+    color: black;
+} */
+
+* .secondstep > div:nth-child(4) label{
+    margin-left: 25px;
+}
+
+.secondstep > div:nth-child(5){
+    margin: 10px 10px;
+    
+}
+
+.secondstep > div:nth-child(5) button{
+    width:300px;
+    margin-left: 120px;
+    height: 33px;
+    background-color: blueviolet;
+    color: white;
+    margin-top: 10px;
+}
+  

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fourthstep{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 35%;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.fourthstep > div:nth-child(1) img{
+    background-color: white;
+    height:50px;
+    margin-left: 200px;
+    margin-top: 20px;
+    display: block;
+    /* margin: 10px 10px; */
+    margin-bottom: 70px;
+}
+
+.fourthstep > div:nth-child(2) h2{
+ margin-left: 130px;
+ margin-bottom: 20px;
+}
+
+
+.fourthstep > div:nth-child(2) p{
+    margin-left: 80px;
+    margin-bottom: 20px;
+   }
+
+.fourthstep > div:nth-child(3){
+    margin: 10px 10px;
+    
+}
+
+.fourthstep > div:nth-child(3) button{
+    width:300px;
+    margin-left: 100px;
+    height: 33px;
+    background-color: blueviolet;
+    color: white;
+    margin-top: 10px;
+    border: none;
+    outline: none;
+}
+
